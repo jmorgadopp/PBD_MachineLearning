@@ -1,0 +1,17 @@
+# Carpetas de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Cosas de Spyder
+.spyproject/
+.ipynb_checkpoints/
+
+# Ficheros temporales
+*.tmp
+*.log
